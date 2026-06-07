@@ -78,7 +78,7 @@ May 30 - 10:59 am
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=YOUR_COLOR_CODE&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+MAHADEVAPRASAD HM;YOUR_PROFESSION;YOUR_DEGREE;YOUR_SPECIALIZATION" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=YOUR_COLOR_CODE&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+MAHADEVAPRASAD;YOUR_PROFESSION;YOUR_DEGREE;YOUR_SPECIALIZATION" alt="Typing SVG" />
 </h1>
 
 <p align="center">
